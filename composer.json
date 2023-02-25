@@ -1,0 +1,17 @@
+{
+    "name": "drone/poo",
+    "description": "Estudando sobre POO em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruno Raphael Facundo",
+            "email": "dronecraftbr10@gmail.com"
+        }
+    ],
+    "require": {}
+}
